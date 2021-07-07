@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Loja</string>
+    <string name="botao_valor1">Cadastrar Produto</string>
+    <string name="botao_valor2">Cadastrar Venda</string>
+    <string name="botao_valor3">Cadastrar Cliente</string>
+    <string name="botao_valor4">VOLTAR</string>
+    <string name="botao_valor5">CADASTRAR</string>
+    <string name="text_valor1">Descrição</string>
+    <string name="text_valor2">Categoria</string>
+    <string name="text_valor3">Preço</string>
+    <string name="text_valor4">Quantidade</string>
+    <string name="text_valor5">Nome</string>
+    <string name="text_valor6">E-mail</string>
+    <string name="text_valor7">CPF</string>
+    <string name="text_valor8">Senha</string>
+    <string name="text_valor9">Data</string>
+</resources>
